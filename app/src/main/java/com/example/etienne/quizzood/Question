@@ -1,0 +1,6 @@
+class Question {
+
+    var id: int;
+    var contenu: String;
+
+} //http://tutos-android-france.com/introduction-a-kotlin/
