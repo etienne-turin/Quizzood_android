@@ -5,8 +5,9 @@
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Mot de passe</string>
-    <string name="action_sign_in">Connexion ou enregristrement</string>
+    <string name="action_sign_in">Connexion</string>
     <string name="action_sign_in_short">Connexion</string>
+    <string name="action_sign_in_g">Connexion Google +</string>
     <string name="error_invalid_email">Cet email est invalide</string>
     <string name="error_invalid_password">Ce mot de passe est trop court</string>
     <string name="error_incorrect_password">Ce mot de passe est incorrect</string>
