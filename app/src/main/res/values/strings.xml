@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Quizzood</string>
+    <string name="title_activity_connexion">Connexion</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Connexion ou enregristrement</string>
+    <string name="action_sign_in_short">Connexion</string>
+    <string name="error_invalid_email">Cet email est invalide</string>
+    <string name="error_invalid_password">Ce mot de passe est trop court</string>
+    <string name="error_incorrect_password">Ce mot de passe est incorrect</string>
+    <string name="error_field_required">Ce champ est obligatoire</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 </resources>
